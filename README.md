@@ -1,4 +1,4 @@
-# 👋 Hey Everyone, I'm khaijah
+# 👋 Hey Everyone, I'm khadijah
 **Welcome to my GitHub Universe!**  
 🎯 **About Me**
 - Passionate about learning and improving every day
