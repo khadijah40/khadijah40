@@ -1,10 +1,10 @@
 #  Hey Everyone, I'm khadijah
 ## Welcome to My GitHub Universe!
 
-🚀 Building projects that help people every day
-📚 Focused on learning and improving
-🤝 Open to collaboration
-💡 Enjoy working on a variety of projects
+- 🚀 Building projects that help people every day
+- 📚 Focused on learning and improving
+- 🤝 Open to collaboration
+- 💡 Enjoy working on a variety of projects
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=khadijah40.khadijah40)
 
