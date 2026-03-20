@@ -47,13 +47,7 @@
 
 ---
 
-## 🏆 Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khadijah40&theme=radical&row=1&column=6"/>
-</p>
-
----
 
 ## 📈 Contribution Graph
 
